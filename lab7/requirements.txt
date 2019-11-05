@@ -1,0 +1,3 @@
+websocket-client==0.48.0
+cryptography==2.7
+py-bcrypt==0.4
